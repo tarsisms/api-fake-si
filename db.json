@@ -2,8 +2,8 @@
  "properties" : [
     {
     "id": 1,
-    "price": 2225.0,
-    "rating": 4.8,
+    "price": 5225.0,
+    "rating": 5.0,
     "availableDates": "10-31 Dec",
     "location": "Harlingen, Netherlands",
     "hostType": "Professional Host",
