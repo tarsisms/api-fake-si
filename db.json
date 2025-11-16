@@ -36,5 +36,19 @@
     "hostType": "Superhost",
     "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173625874.jpg?k=5d9a7d0bcdb33c8c6959ac1d03cd869a7a34cbc1e16485486e518fb846fb664a&o=&hp=1"
   }
- ]
+ ], 
+ users : [
+  {
+    "username": "joao@gmail.com",
+    "password": "123456",
+    "name": "João da Silva",
+    "imageUrl": "https://media.istockphoto.com/id/1682296067/photo/happy-studio-portrait-or-professional-man-real-estate-agent-or-asian-businessman-smile-for.jpg?s=612x612&w=0&k=20&c=9zbG2-9fl741fbTWw5fNgcEEe4ll-JegrGlQQ6m54rg="
+  }, 
+    {
+    "username": "maria@gmail.com",
+    "password": "123456",
+    "name": "Maria dos Santos",
+    "imageUrl": "https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ="
+  }
+]
 }
